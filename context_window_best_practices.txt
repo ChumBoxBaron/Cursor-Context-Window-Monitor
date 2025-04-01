@@ -1,0 +1,58 @@
+Context Window Management Best Practices
+=====================================
+
+1. Session Management Best Practices
+----------------------------------
+- Start a new session when:
+  * You're beginning work on a new feature or component
+  * Your current session is longer than 2-3 hours
+  * You notice the AI's responses becoming less accurate or relevant
+  * You're approaching 80% of the context window (as our monitor will now warn you)
+  * You're switching between different parts of your project
+
+2. Code Organization Tips
+------------------------
+- Keep your code modular and well-organized
+- Split large files into smaller, focused modules
+- Use clear file and directory structures
+- Document important decisions and complex logic
+- Consider using a project documentation tool
+
+3. Chat Management Tips
+----------------------
+- Keep conversations focused on specific tasks
+- Start new chats for different features or components
+- Save important code snippets and decisions in separate files
+- Use comments to document key decisions
+- Consider using a note-taking app for important decisions
+
+4. Project Structure Recommendations
+----------------------------------
+- Create a 'docs' directory for important decisions and context
+- Use a 'README.md' for project overview and setup instructions
+- Keep a 'CHANGELOG.md' for tracking major changes
+- Consider using a project management tool for tracking tasks and decisions
+
+5. When to Start New Sessions
+----------------------------
+- After completing a major feature
+- When switching between different parts of your project
+- When you notice the AI's responses becoming less accurate
+- When you're approaching the context window limit
+- After 2-3 hours of continuous work
+- When starting work on a new component
+
+Additional Tips
+--------------
+- Use the Context Window Monitor to track your usage
+- Pay attention to the monitor's recommendations
+- Consider using version control (Git) for tracking changes
+- Implement automated testing to catch potential issues
+- Keep your development environment clean and organized
+- Regular code reviews can help identify areas that need refactoring
+- Document complex algorithms and business logic thoroughly
+- Consider using code documentation tools
+- Keep your dependencies up to date
+- Regular backups of important code and documentation
+
+Remember: The key to maintaining high-quality AI assistance is to manage your context window effectively and start new sessions when appropriate. The Context Window Monitor will help you make these decisions by providing real-time feedback about your usage. 
